@@ -1,0 +1,22 @@
+{
+  "name": "playwrightts-work-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "M00_IntroductionToTypescript.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raymondchandra93/PlaywrightTS-Work-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raymondchandra93/PlaywrightTS-Work-Portfolio/issues"
+  },
+  "homepage": "https://github.com/raymondchandra93/PlaywrightTS-Work-Portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
+}
