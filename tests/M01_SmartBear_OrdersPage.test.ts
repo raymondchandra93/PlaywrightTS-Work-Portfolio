@@ -20,5 +20,5 @@ test("Test to get the 1st row record", async ({page}) => {
     
     // Locating the 1st row of the table
     const row = page.locator("#ctl00_MainContent_orderGrid tr:nth-of-type(2) td");
-    console.log(await row.nth(2).textContent());
+    console.log(await row.nth(1).textContent());
 });
